@@ -6,8 +6,8 @@ const quiz = [
         answer: 1
     },
     {
-     q:"___ you ___ speaking right now?",
-        options:["Are / speaking", "Are / speak", "Do/speak", "Is / speaking"],
+     q:"___ you ___ right now?",
+        options:["Are / speaking", "Are / speak", "Do / speak", "Is / speaking"],
         answer: 0   
     },
     {
